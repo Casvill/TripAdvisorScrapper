@@ -1,0 +1,699 @@
+1660834998173	geckodriver	INFO	Listening on 127.0.0.1:62407
+1660835001256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile4ls4SV"
+1660835002663	Marionette	INFO	Marionette enabled
+1660835002690	Marionette	INFO	Listening on port 62419
+WebDriver BiDi listening on ws://localhost:62408
+Read port: 62419
+1660835003094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile4ls4SV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62408/devtools/browser/9c2032da-c5bf-4e40-a5d3-98e63e271330
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6754 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660835417368	Marionette	INFO	Stopped listening on port 62419
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+0835408789	Marionette	INFO	Listening on port 51985
+WebDriver BiDi listening on ws://localhost:51972
+Read port: 51985
+1660835409093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehR9SGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51972/devtools/browser/8ac85c02-3aff-4055-9713-6464c2dfe33b
+1660835412662	Marionette	INFO	Stopped listening on port 51985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660835432497	geckodriver	INFO	Listening on 127.0.0.1:52009
+1660835435504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileykKhjp"
+1660835436321	Marionette	INFO	Marionette enabled
+1660835436338	Marionette	INFO	Listening on port 52020
+WebDriver BiDi listening on ws://localhost:52010
+Read port: 52020
+1660835436628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileykKhjp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52010/devtools/browser/66880060-9340-48b7-ae60-b1adb40b0e8c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660835503614	Marionette	INFO	Stopped listening on port 52020
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660835566283	geckodriver	INFO	Listening on 127.0.0.1:56200
+1660835569336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilepNhetH"
+1660835569969	Marionette	INFO	Marionette enabled
+1660835569979	Marionette	INFO	Listening on port 56213
+WebDriver BiDi listening on ws://localhost:56201
+Read port: 56213
+1660835570252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilepNhetH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56201/devtools/browser/9a97aefe-264f-4d67-a289-29b66933f8be
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 3672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660836190845	Marionette	INFO	Stopped listening on port 56213
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660836211599	geckodriver	INFO	Listening on 127.0.0.1:64177
+1660836214641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile79WfuL"
+1660836215277	Marionette	INFO	Marionette enabled
+1660836215286	Marionette	INFO	Listening on port 64189
+WebDriver BiDi listening on ws://localhost:64178
+Read port: 64189
+1660836215558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile79WfuL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64178/devtools/browser/b14b844b-af99-4dee-ab8d-f7bca7a1aecb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660836288524	Marionette	INFO	Stopped listening on port 64189
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660836644258	geckodriver	INFO	Listening on 127.0.0.1:57631
+1660836647311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileaN7HXv"
+1660836648001	Marionette	INFO	Marionette enabled
+1660836648012	Marionette	INFO	Listening on port 57643
+WebDriver BiDi listening on ws://localhost:57632
+Read port: 57643
+1660836648232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileaN7HXv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57632/devtools/browser/87bc6134-c2e3-4ca8-b32d-4df4a467354c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660836849854	Marionette	INFO	Stopped listening on port 57643
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile8U3tWN"
+1660836748255	Marionette	INFO	Marionette enabled
+1660836748268	Marionette	INFO	Listening on port 59000
+WebDriver BiDi listening on ws://localhost:58990
+Read port: 59000
+1660836748592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile8U3tWN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58990/devtools/browser/efed3b5d-4ee6-4c4f-9335-eb48fb2bcf17
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6835 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660836851091	Marionette	INFO	Stopped listening on port 59000
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660836944234	geckodriver	INFO	Listening on 127.0.0.1:54608
+1660836947270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileDJqO8S"
+1660836948085	Marionette	INFO	Marionette enabled
+1660836948097	Marionette	INFO	Listening on port 54619
+WebDriver BiDi listening on ws://localhost:54609
+Read port: 54619
+1660836948340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileDJqO8S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54609/devtools/browser/fa4184f5-dd6f-422f-a1ca-5e03ecbbf2d5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660837009860	Marionette	INFO	Stopped listening on port 54619
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660837051971	geckodriver	INFO	Listening on 127.0.0.1:58888
+1660837055029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilekMOQEq"
+1660837055675	Marionette	INFO	Marionette enabled
+1660837055685	Marionette	INFO	Listening on port 58900
+WebDriver BiDi listening on ws://localhost:58889
+Read port: 58900
+1660837055997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilekMOQEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58889/devtools/browser/16f29ec1-b787-4f97-bf9d-f6a958cbd426
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 5109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1660837843547	Marionette	INFO	Stopped listening on port 58900
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilepps8OX"
+1660837664465	Marionette	INFO	Marionette enabled
+1660837664474	Marionette	INFO	Listening on port 59235
+WebDriver BiDi listening on ws://localhost:59223
+Read port: 59235
+1660837664684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilepps8OX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59223/devtools/browser/4596fb54-e88c-4ed2-bea6-cc53754e37fe
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 1264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660837844509	Marionette	INFO	Stopped listening on port 59235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilewYwGnx"
+1660837774377	Marionette	INFO	Marionette enabled
+1660837774390	Marionette	INFO	Listening on port 64479
+WebDriver BiDi listening on ws://localhost:64455
+Read port: 64479
+1660837774611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilewYwGnx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64455/devtools/browser/66daca71-ebc1-40e1-bc5c-1d0b1ea40b1c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660837845627	Marionette	INFO	Stopped listening on port 64479
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehIcmDs"
+1660837836032	Marionette	INFO	Marionette enabled
+1660837836038	Marionette	INFO	Listening on port 51165
+WebDriver BiDi listening on ws://localhost:51145
+Read port: 51165
+1660837836306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehIcmDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51145/devtools/browser/63906248-01b3-42fc-a303-09c6c1e8d948
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660837938670	Marionette	INFO	Stopped listening on port 51165
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660838177359	geckodriver	INFO	Listening on 127.0.0.1:51463
+1660838180419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilem6kUuk"
+1660838180930	Marionette	INFO	Marionette enabled
+1660838180935	Marionette	INFO	Listening on port 51475
+WebDriver BiDi listening on ws://localhost:51464
+Read port: 51475
+1660838181247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilem6kUuk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51464/devtools/browser/979225b9-1d7b-415e-b096-c738e44f651f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660838207189	Marionette	INFO	Stopped listening on port 51475
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660838261509	geckodriver	INFO	Listening on 127.0.0.1:62919
+1660838264552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile5S6XlB"
+1660838264943	Marionette	INFO	Marionette enabled
+1660838264949	Marionette	INFO	Listening on port 62931
+WebDriver BiDi listening on ws://localhost:62920
+Read port: 62931
+1660838265081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile5S6XlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62920/devtools/browser/d2b13537-f621-4cb8-be83-3ac0641ed3ea
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 3714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660838281201	Marionette	INFO	Stopped listening on port 62931
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660838438353	geckodriver	INFO	Listening on 127.0.0.1:63100
+1660838441396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileY9Yab0"
+1660838441720	Marionette	INFO	Marionette enabled
+1660838441725	Marionette	INFO	Listening on port 63112
+WebDriver BiDi listening on ws://localhost:63101
+Read port: 63112
+1660838441857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileY9Yab0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63101/devtools/browser/84f0e631-627b-430b-91be-f18c6a279260
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 265 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1660838499505	Marionette	INFO	Stopped listening on port 63112
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660838647734	geckodriver	INFO	Listening on 127.0.0.1:54634
+1660838650800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile4h5JrR"
+1660838651182	Marionette	INFO	Marionette enabled
+1660838651186	Marionette	INFO	Listening on port 54646
+WebDriver BiDi listening on ws://localhost:54635
+Read port: 54646
+1660838651491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile4h5JrR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54635/devtools/browser/6738f93a-e5dd-41ff-9137-d5be5887c9a2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6487 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660838819314	Marionette	INFO	Stopped listening on port 54646
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660838916955	geckodriver	INFO	Listening on 127.0.0.1:54484
+1660838920059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilemQBbwa"
+1660838920397	Marionette	INFO	Marionette enabled
+1660838920402	Marionette	INFO	Listening on port 54496
+WebDriver BiDi listening on ws://localhost:54485
+Read port: 54496
+1660838920688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilemQBbwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54485/devtools/browser/a096f9f6-97be-4d43-aa25-7493f0c9d441
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 3544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1660838979525	Marionette	INFO	Stopped listening on port 54496
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660839059638	geckodriver	INFO	Listening on 127.0.0.1:56900
+1660839062694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileP7v8Nc"
+1660839063045	Marionette	INFO	Marionette enabled
+1660839063051	Marionette	INFO	Listening on port 56912
+WebDriver BiDi listening on ws://localhost:56901
+Read port: 56912
+1660839063202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileP7v8Nc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56901/devtools/browser/e461fe21-70a1-4640-b03b-36026b543f95
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 1207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1660839313796	Marionette	INFO	Stopped listening on port 56912
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileITdaFU"
+1660839220389	Marionette	INFO	Marionette enabled
+1660839220398	Marionette	INFO	Listening on port 64914
+WebDriver BiDi listening on ws://localhost:64904
+Read port: 64914
+1660839220633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileITdaFU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64904/devtools/browser/1013c15f-2c25-4f3a-b6c9-c05efde56fa0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660839314528	Marionette	INFO	Stopped listening on port 64914
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileVQLIyc"
+1660839283413	Marionette	INFO	Marionette enabled
+1660839283419	Marionette	INFO	Listening on port 61650
+WebDriver BiDi listening on ws://localhost:61637
+Read port: 61650
+1660839283611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileVQLIyc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61637/devtools/browser/0e969826-9ee4-4f7b-b7ec-05f2ac0a554d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660839315620	Marionette	INFO	Stopped listening on port 61650
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+839310545	Marionette	INFO	Listening on port 61854
+WebDriver BiDi listening on ws://localhost:61841
+Read port: 61854
+1660839310748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileu6XR7U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61841/devtools/browser/dcde24ed-f30c-4647-b60e-0392a1af31be
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 2591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660839474369	Marionette	INFO	Stopped listening on port 61854
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660839593920	geckodriver	INFO	Listening on 127.0.0.1:62157
+1660839596963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileh3M259"
+1660839597357	Marionette	INFO	Marionette enabled
+1660839597363	Marionette	INFO	Listening on port 62169
+WebDriver BiDi listening on ws://localhost:62158
+Read port: 62169
+1660839597654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileh3M259\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62158/devtools/browser/97aa7060-11ee-4e73-bad0-30ad87967e83
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1660839743312	Marionette	INFO	Stopped listening on port 62169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilebHhLS0"
+1660839669754	Marionette	INFO	Marionette enabled
+1660839669761	Marionette	INFO	Listening on port 60205
+WebDriver BiDi listening on ws://localhost:60195
+Read port: 60205
+1660839669952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilebHhLS0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60195/devtools/browser/a2a87dd2-bb26-4386-9c38-e00cee1e9650
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660839744100	Marionette	INFO	Stopped listening on port 60205
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+firefox.exe" "--marionette" "--remote-debugging-port" "50828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileFs0rAV"
+1660839739383	Marionette	INFO	Marionette enabled
+1660839739388	Marionette	INFO	Listening on port 50848
+WebDriver BiDi listening on ws://localhost:50828
+Read port: 50848
+1660839739533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileFs0rAV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50828/devtools/browser/ce3bd5b9-196f-4775-9592-5d8e1ef4e0f3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660839759826	Marionette	INFO	Stopped listening on port 50848
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660841282064	geckodriver	INFO	Listening on 127.0.0.1:65526
+1660841285123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilecU6AoN"
+1660841288605	Marionette	INFO	Marionette enabled
+1660841288616	Marionette	INFO	Listening on port 49157
+WebDriver BiDi listening on ws://localhost:65527
+Read port: 49157
+1660841288898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilecU6AoN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65527/devtools/browser/d8808fda-cdd8-41af-8fa7-ac7984f6aa50
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 5637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660842453280	Marionette	INFO	Stopped listening on port 49157
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehMApMU"
+1660842257386	Marionette	INFO	Marionette enabled
+1660842257393	Marionette	INFO	Listening on port 50899
+WebDriver BiDi listening on ws://localhost:50888
+Read port: 50899
+1660842257639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehMApMU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50888/devtools/browser/fb6e71b6-5027-4c2e-830c-766feae961cf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 2697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660842335141	Marionette	INFO	Stopped listening on port 50899
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660842566905	geckodriver	INFO	Listening on 127.0.0.1:50269
+1660842569955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile0l62U9"
+1660842570453	Marionette	INFO	Marionette enabled
+1660842570460	Marionette	INFO	Listening on port 50280
+WebDriver BiDi listening on ws://localhost:50270
+Read port: 50280
+1660842570648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile0l62U9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50270/devtools/browser/84be54e7-0a4c-4caa-90e8-96ca1af739b4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 2945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660842668802	Marionette	INFO	Stopped listening on port 50280
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette	INFO	Marionette enabled
+1660842634206	Marionette	INFO	Listening on port 63795
+WebDriver BiDi listening on ws://localhost:63783
+Read port: 63795
+1660842634428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilesInps2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63783/devtools/browser/a10fb121-8902-4b32-8c87-83e325a40adc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7122 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660842671620	Marionette	INFO	Stopped listening on port 63795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1660842709803	geckodriver	INFO	Listening on 127.0.0.1:64076
+1660842712884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilea1sC5W"
+1660842713494	Marionette	INFO	Marionette enabled
+1660842713505	Marionette	INFO	Listening on port 64088
+WebDriver BiDi listening on ws://localhost:64077
+Read port: 64088
+1660842713773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilea1sC5W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64077/devtools/browser/e146ed48-7076-4ff8-90bf-d99a75015c6f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660843280974	Marionette	INFO	Stopped listening on port 64088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileTgIIfi"
+1660843081802	Marionette	INFO	Marionette enabled
+1660843081810	Marionette	INFO	Listening on port 64395
+WebDriver BiDi listening on ws://localhost:64382
+Read port: 64395
+1660843082532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileTgIIfi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64382/devtools/browser/eed80271-d039-4351-a47b-0faf35fa1675
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660843279652	Marionette	INFO	Stopped listening on port 64395
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilekH0CCI"
+1660843115644	Marionette	INFO	Marionette enabled
+1660843115673	Marionette	INFO	Listening on port 54124
+WebDriver BiDi listening on ws://localhost:54114
+Read port: 54124
+1660843116016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilekH0CCI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54114/devtools/browser/7ba738f1-9f6a-4318-adb9-58e7b615424b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 971 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1660843282334	Marionette	INFO	Stopped listening on port 54124
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+91852	Marionette	INFO	Marionette enabled
+1660843191860	Marionette	INFO	Listening on port 54375
+WebDriver BiDi listening on ws://localhost:54352
+Read port: 54375
+1660843192104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileajc2h4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54352/devtools/browser/ff266689-b660-4579-af4b-b3b051b31f1e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660843283594	Marionette	INFO	Stopped listening on port 54375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileUnGAXV"
+1660843276657	Marionette	INFO	Marionette enabled
+1660843276665	Marionette	INFO	Listening on port 53902
+WebDriver BiDi listening on ws://localhost:53887
+Read port: 53902
+1660843276991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileUnGAXV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53887/devtools/browser/9eda5c1b-f23e-43e4-a6fc-fcd368e94d23
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 2432 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660843485775	Marionette	INFO	Stopped listening on port 53902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileHHWvgz"
+1660843480618	Marionette	INFO	Marionette enabled
+1660843480627	Marionette	INFO	Listening on port 53789
+WebDriver BiDi listening on ws://localhost:53769
+Read port: 53789
+1660843480871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileHHWvgz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53769/devtools/browser/507b8790-1f7b-45eb-9e0b-1185772a98eb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660843556912	Marionette	INFO	Stopped listening on port 53789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileIUlTQq"
+1660843554248	Marionette	INFO	Marionette enabled
+1660843554257	Marionette	INFO	Listening on port 59730
+WebDriver BiDi listening on ws://localhost:59718
+Read port: 59730
+1660843554516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileIUlTQq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59718/devtools/browser/71a3ccdc-a3c1-41b3-ba53-8896b349b5d2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4365 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660843814402	Marionette	INFO	Stopped listening on port 59731660843814802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilediRRTh"
+1660843815326	Marionette	INFO	Marionette enabled
+1660843815333	Marionette	INFO	Listening on port 64034
+WebDriver BiDi listening on ws://localhost:64022
+Read port: 64034
+1660843815594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilediRRTh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64022/devtools/browser/b012b7c8-8bd8-400c-ac75-e0850ed0f9af
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, l1660843828829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilel2UWS5"
+1660843829420	Marionette	INFO	Marionette enabled
+1660843829436	Marionette	INFO	Listening on port 64170
+WebDriver BiDi listening on ws://localhost:641071660844278166	Marionette	INFO	Stopped listening on port 64034
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+\\rust_mozprofilel2UWS5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64107/devtools/browser/adf3e660-d1fd-4364-af8f-e73b21eb7d69
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "httpconsole.warn: LoginRec1660844278952	Marionette	INFO	Stopped listening on port 64170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile0q9LGa"
+1660843858754	Marionette	INFO	Marionette enabled
+1660843858763	Marionette	INFO	Listening on port 56327
+WebDriver BiDi listening on ws://localhost:56197
+Read port: 56327
+1660843859058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile0q9LGa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56197/devtools/browser/ffd4a1b3-e218-411f-81d4-273c316f456a
+1660844279887	Marionette	INFO	Stopped listening on port 56073
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ng back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a s1660843873924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilegLjJavaS1660843874862	Marionette	INFO	Marionette enabled
+1660843874875	Marionette	INFO	Listening on port 56527
+WebDriver BiDi listening on ws://localhost:56457
+Read port: 56527
+1660843875150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+conso1660844281080	Marionette	INFO	Stopped listening on port 56327
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+owser/607b9988-ca60-4e27-9fb9-e5f3e47dcad9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6840 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+1660844282371	Marionette	INFO	Stopped listening on port 56527
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
