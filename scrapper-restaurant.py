@@ -159,4 +159,4 @@ for city in cities.href[:2]:
 df_restaurants = pd.DataFrame(restaurants_info_list)
 df_restaurants.to_csv('data/restaurants.csv')
 
-# avg time: 
+# avg time: 2 min
