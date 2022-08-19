@@ -1123,3 +1123,180 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 1660851470060	Marionette	INFO	Stopped listening on port 53590
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660883496277	geckodriver	INFO	Listening on 127.0.0.1:62476
+1660883499390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileexGCoY"
+1660883500849	Marionette	INFO	Marionette enabled
+1660883500864	Marionette	INFO	Listening on port 62487
+WebDriver BiDi listening on ws://localhost:62477
+Read port: 62487
+1660883501286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileexGCoY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62477/devtools/browser/d8000e99-15f1-4651-9bf0-318e4b659e00
+console.warn: LoginRecipes: "getRecipes: falling back to a s1660883514375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilefukdPh"
+1660883515263	Marionette	INFO	Marionette enabled
+1660883515273	Marionette	INFO	Listening on port 62626
+WebDriver BiDi listening on ws://localhost:62544
+Read port: 62626
+1660883515586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilefukdPh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62544/devtools/browser/ef3eb7e2-66cb-4a80-8262-a97b9d4afdd2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchrono1660883595600	Marionette	INFO	Stopped listening on port 62487
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Script warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvp1660883528819	Marionette	INFO	Marionette enabled
+1660883528830	Marionette	INFO	Listening on port 50848
+WebDriver BiDi listening on ws://localhost:50752
+Read port: 50848
+1660883529188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehQL5wU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50752/devtools/browser/2359e2ee-17f8-4584-b249-92bdde3506aa1660883596533	Marionette	INFO	Stopped listening on port 62626
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilen4Au5r"
+1660883543250	Marionette	INFO	Marionette enabled
+1660883543258	Marionette	INFO	Listening on port 51064
+WebDriver BiDi listening on ws://localhost:50965
+Read port: 51064
+1660883543572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilen4Au5r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50965/devtools/browser/ed614169-6eb2-4d0b-ba6e-d3e8c18ccd4b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchron1660883597486	Marionette	INFO	Stopped listening on port 50848
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+aScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be remov1660883557690	RemoteAgent	JavaScript warning: https://pagead2.googlesyndication.com/bg/Bconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofile6eaEbR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51174/devtools/browser/e03787db-1f6e-4b76-aefb-1f5d2adeac4d
+c1660883598382	Marionette	INFO	Stopped listening on port 51064
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660883599309	Marionette	INFO	Stopped listening on port 51257
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660883753966	geckodriver	INFO	Listening on 127.0.0.1:51640
+1660883757013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileVOehXz"
+1660883758296	Marionette	INFO	Marionette enabled
+1660883758305	Marionette	INFO	Listening on port 51652
+WebDriver BiDi listening on ws://localhost:51641
+Read port: 51652
+1660883759203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileVOehXz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51641/devtools/browser/e4a8a5f3-99ac-4e31-ad7d-fcaf0bea792d
+console.warn: LoginRecipes: "getRecipes: falling back to a s1660883773684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileTWzgLY"
+1660883774575	Marionette	INFO	Marionette enabled
+1660883774589	Marionette	INFO	Listening on port 51789
+WebDriver BiDi listening on ws://localhost:51708
+Read port: 51789
+1660883774916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileTWzgLY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51708/devtools/browser/bcdfea93-9459-4aed-8680-d465f0b10e88
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronoJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 7249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatC1660883964440	Marionette	INFO	Stopped listening on port 51789
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 2483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660883963212	Marionette	INFO	Stopped listening on port 51652
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Recipes: "getRecipes: falling back to a synchrono1660883965401	Marionette	INFO	Stopped listening on port 55006
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+883822178	Marionette	INFO	Listening on port 55428
+WebDriver BiDi listening on ws://localhost:55323
+Read port: 55428
+1660883822820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofilehYxHey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55323/devtools/browser/bcb4b1c0-0865-4661-97d0-af656a3658f3
+1660883966229	Marionette	INFO	Stopped listening on port 55211
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ng back to a synchronous message for:" "https://www.jscache.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6548 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.jscache.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 4230 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BcUHUABoavvpRAX3o-C5BfAq8AHsMXRVb9HgeqDHxZ8.js line 2 > eval line 6442 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660883967040	Marionette	INFO	Stopped listening on port 55428
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660884640720	geckodriver	INFO	Listening on 127.0.0.1:53851
+1660884643773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileuiYYpo"
+1660884644734	Marionette	INFO	Marionette enabled
+1660884644742	Marionette	INFO	Listening on port 53865
+WebDriver BiDi listening on ws://localhost:53852
+Read port: 53865
+1660884645059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileuiYYpo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53852/devtools/browser/7a346c0c-fb27-4eae-9cb9-a8e3d3e8e31a
+1660884654133	Marionette	INFO	Stopped listening on port 53865
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1660884657083	geckodriver	INFO	Listening on 127.0.0.1:53918
+1660884660150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileySozzy"
+1660884660928	Marionette	INFO	Marionette enabled
+1660884660939	Marionette	INFO	Listening on port 53931
+WebDriver BiDi listening on ws://localhost:53919
+Read port: 53931
+1660884661331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileySozzy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53919/devtools/browser/740e3ca8-c3c2-401d-a7e5-688500665685
+1660884669978	Marionette	INFO	Stopped listening on port 53931
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1660884672704	geckodriver	INFO	Listening on 127.0.0.1:53983
+1660884675748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileOYIZ5q"
+1660884676343	Marionette	INFO	Marionette enabled
+1660884676352	Marionette	INFO	Listening on port 53994
+WebDriver BiDi listening on ws://localhost:53984
+Read port: 53994
+1660884676622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileOYIZ5q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53984/devtools/browser/63c43edd-834d-441a-bd81-fcf73ea063fb
+1660884684604	Marionette	INFO	Stopped listening on port 53994
+[Parent 19372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660884687155	geckodriver	INFO	Listening on 127.0.0.1:54039
+1660884690192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileNtusHB"
+1660884690815	Marionette	INFO	Marionette enabled
+1660884690828	Marionette	INFO	Listening on port 54049
+WebDriver BiDi listening on ws://localhost:54040
+Read port: 54049
+1660884691117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileNtusHB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54040/devtools/browser/59f30323-7779-41c7-b754-0ef50d76a2ee
+1660884699356	Marionette	INFO	Stopped listening on port 54049
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1660884701292	geckodriver	INFO	Listening on 127.0.0.1:54100
+1660884704342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileaL7Lrn"
+1660884704818	Marionette	INFO	Marionette enabled
+1660884704824	Marionette	INFO	Listening on port 54110
+WebDriver BiDi listening on ws://localhost:54101
+Read port: 54110
+1660884705066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DANIEL~1\\AppData\\Local\\Temp\\rust_mozprofileaL7Lrn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54101/devtools/browser/d4b5cf8b-77bf-45a4-a36e-d6a81d84187d
+1660884713081	Marionette	INFO	Stopped listening on port 54110
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
