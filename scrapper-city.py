@@ -63,3 +63,5 @@ for i in range(20,(max_city_page*20),20):
 # final df to csv
 cities = pd.DataFrame(cities)
 cities.to_csv('data/city_list.csv')
+
+# avg time: 54 sec
