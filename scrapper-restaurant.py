@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+# read city list 
 cities = pd.read_csv('data/city_list.csv')
 cities = cities[['city', 'href']]
 
@@ -47,7 +48,7 @@ def extract_restaurant_info(page) -> BeautifulSoup:
 
 restaurants_info_list = []
 
-def transform_restaurant_info(soup,restaurant): #,city,state) -> list:
+def transform_restaurant_info(soup,restaurant) -> list:
 
     div = soup.find('ul', class_='breadcrumbs')
     
@@ -88,7 +89,7 @@ def transform_restaurant_info(soup,restaurant): #,city,state) -> list:
             # print('ranking:',ranking)
             break
         except:
-            ranking = ''
+            ranking = ''              
 
     div = soup.find('div', class_='kDZhm IdiaP Me')
     for item in div:
@@ -96,7 +97,7 @@ def transform_restaurant_info(soup,restaurant): #,city,state) -> list:
             address = item.find('span', class_='yEWoV').text
             # print('address:',address)
         except:
-            address = ''
+            pass
 
     div = soup.find('div', class_='IdiaP Me sNsFa')
     for item in div:
@@ -130,18 +131,18 @@ def transform_restaurant_info(soup,restaurant): #,city,state) -> list:
 
     restaurants_info_list.append(restaurants_info)
 
-# first 2 cities
+
+# first 2 cities 
 for city in cities.href[:2]:
     restaurant_list = transform_restaurant_list(extract_restaurant_list(city))
     restaurant_list = pd.DataFrame(restaurant_list)
 
+    # new feature 
     restaurant_list['sponsored'] = ''
-
     for i in range(len(restaurant_list)):
         if '.' in restaurant_list['restaurant'][i]:
             restaurant_list['restaurant'][i] = restaurant_list['restaurant'][i].split('.')[1]
             restaurant_list['sponsored'][i] = restaurant_list['restaurant'][i].split('.')[0]
-
     restaurant_list['sponsored'] = ~restaurant_list.sponsored.astype('bool')
 
     # list without sponsored restaurants
@@ -150,9 +151,12 @@ for city in cities.href[:2]:
     restaurant_list.drop(columns=['index'], inplace=True)
 
     # first 30 restaurants
-    for i in range(3):
+    for i in range(30):
         href,restaurant = restaurant_list['href'][i],restaurant_list['restaurant'][i]
         transform_restaurant_info(extract_restaurant_info(href), restaurant)
 
+# final df to csv
 df_restaurants = pd.DataFrame(restaurants_info_list)
 df_restaurants.to_csv('data/restaurants.csv')
+
+# avg time: 
