@@ -1,0 +1,394 @@
+/*************************** reset *****************************/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {content:'';}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/************************* Common styles ***************************/
+
+body, html {padding: 0;margin: 0; height: 100%}
+body {
+    background: #f6f6f6;
+    color: #2d2d2d;
+    font-family: 'Arial', 'Helvetica';
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 {font-size: 24px;}
+h2 {font-size: 22px;}
+h3 {font-size: 20px;}
+h4, h5, h6 {font-size: 18px;}
+
+a {color: #ff2424}
+a:hover {color: #ff2400}
+
+header, footer, main {
+    width: 100%;
+}
+.page-wrapper {
+    min-height: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #71eace38;
+    flex-basis: 50px;
+
+}
+header #logo {
+    padding: 0 10px;
+}
+header #logo a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#666;
+}
+header nav{
+    display: flex;
+    margin:0 20px;
+    align-items: center;
+}
+header nav a{
+    justify-content: flex-start;
+    font-size: 18px;
+    color:#ff0000;
+}
+header nav a + a{
+    padding-left: 10px;
+}
+.main-wrapper{
+    display: flex;
+    flex-grow: 1;
+}
+main {    
+    order: 2;
+    flex-basis:800px;
+    line-height: 1.8;
+}
+.left-side{
+    order: 1;
+    flex-grow: 1;
+}
+.right-side{
+    order:3;
+    flex-grow: 1;
+}
+article{
+    margin:50px 0;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    margin-top: 20px;
+    border-top: 1px solid #d4d4d4;
+    background-color: #71eace38;
+}
+
+main h1, main h2, main h3, main h4 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #2d2d2d;
+    margin: 0 0 10px 0;
+}
+main h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+.searchzone{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+input.searchbox {
+    width: 80%;
+    height: 40px;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
+button.searchbutton{
+    width: 20%;
+    height: 43px;
+    background-color: red;
+    font-size: 115%;
+    color: white;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    border-width: 0;
+}
+.listslinksbox{
+    text-align: center;
+}
+.listslinksbox a{
+    font-size: 30px;
+    margin:0 8px;
+}
+.listslinksbox a:hover{
+    text-decoration: none;
+}
+
+
+
+/*  Custom styles   **********************************/
+.mainpage p {
+    font-size: 18px;
+}
+
+/*breadcrumbs styling*/
+    /* Style the list */
+    ul.breadcrumb {
+        padding: 10px 16px;
+        list-style: none;
+        background-color: #eee;
+    }
+
+    /* Display list items side by side */
+    ul.breadcrumb li {
+        display: inline;
+        font-size: 14px;
+    }
+
+    /* Add a slash symbol (/) before/behind each list item */
+    ul.breadcrumb li+li:before {
+        padding: 8px;
+        color: black;
+        content: "/\00a0";
+    }
+
+    /* Add a color to all links inside the list */
+    ul.breadcrumb li a {
+        color: #0275d8;
+        text-decoration: none;
+    }
+
+    /* Add a color on mouse-over */
+    ul.breadcrumb li a:hover {
+        color: #01447e;
+        text-decoration: underline;
+    }
+    .first_letter_menu{
+        display: flex;
+        justify-content: center;
+        flex-flow: wrap;
+        flex-direction: row;
+    }
+    .first_letter_menu li{
+        display: inline;
+        margin: 5px;
+    }
+/*end of breadcrumbs styling*/
+
+/*styles of content*********************/
+.plot{
+    background-color: #ff000007;
+    padding: 10px;
+    margin: 33px 0;
+    font-style: italic;
+}
+.series_seasons{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+.series_seasons .season{
+    margin: 0 12px 12px 20px;
+}
+.series_seasons .season li{
+    list-style-type: none; 
+}
+.series_seasons .season li a:hover{
+    text-decoration: none; 
+}
+.full-script{
+    width: 90%;
+    height: 450px;
+    overflow: auto;
+    border: 5px solid #716d6d14;
+    padding: 3%;
+    margin: 25px auto;
+}
+.prevnext{
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 0;
+}
+.see_also{
+    display: flex;
+    justify-content: center;
+}
+.see_also a{
+    padding: 0 10px;
+}
+.disabled .fa{
+    background-color: #a79f9f;
+    cursor:not-allowed;
+}
+.prevnext a, .fa, .pagination a{
+    background-color: #ff2424;
+    color: #f6f6f6;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8% 8%;
+    padding: 4px;
+}
+.pagination_pages ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:20px 0;
+}
+
+
+
+.pagination_pages li a:hover{
+    text-decoration: none;
+}
+.scripts-list{
+
+}
+.scripts-list li{
+    list-style-type: none;   
+    background-color: #eee;
+    margin: 5px 0;
+    padding: 5px;
+    cursor: pointer;
+}
+.scripts-list li:hover{
+    background-color: #ccc;
+    text-decoration: underline;
+}
+.scripts-list li a{
+    text-decoration: none;
+}
+.download-pre-text{
+    text-align: center;
+}
+.download-wrapper{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+a.download-button{
+    padding: 4px 5px;
+    background-color: #5d7b74;
+    color: white;
+    margin: 0 10px;
+    display: inline-block;
+}
+a.download-button:hover{
+    color: #f5e2df;
+}
+/*styles of content end*/
+
+/*alternative ad styles*/
+.load_buttons{
+    display: flex;
+    justify-content: space-around;
+    padding: 9px 10%;
+}
+.load_buttons a{
+    background: linear-gradient(to bottom, #f24537 5%, #c62d1f 100%) !important;
+    background-color: #c62d1f !important;
+    border-radius: 5px !important;
+    border: 1px solid #d02718 !important;
+    display: inline-block !important;
+    cursor: pointer !important;
+    color: #ffffff !important;
+    font-family: Arial !important;
+    font-size: 1em !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    text-shadow: 0px -1px 0px #810e05 !important;
+    padding: 0 0.4em;
+    line-height: 51px !important;
+    text-align: center;
+}
+.load_buttons a:hover{
+    background: linear-gradient(to bottom, #c62d1f 5%, #f24537 100%) !important;
+    background-color: #c62d1f !important;
+}
+.advarieties{
+    font-size: 140%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f0fffff2;
+    text-align: center;
+    border-top: 2px dashed red;
+    text-decoration: none;
+}
+a.advarieties:hover{
+    text-decoration: underline;
+}
+.blink {
+  animation: blink 0.5s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
