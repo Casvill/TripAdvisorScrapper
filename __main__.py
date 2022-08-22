@@ -3,10 +3,11 @@ import transform
 import pandas as pd
 import time 
 
-total_pages = 54 
-cities = 3
+# cities to scrap
+cities = 3 
 
 # city list
+total_pages = 54 # max 54
 for i in range(1,total_pages):
     soup,page = extract.extract_cities(i)
     df_cities = transform.transform_cities(soup,page)
