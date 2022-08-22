@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 #----------------------------------------------------------------------------------------------------------------------
 
 def __formula(num:int) -> int:
-    print('__formula')
+    #print('__formula')
     return int(num-1)*20
 
 
@@ -26,6 +26,7 @@ def extract_cities(page) -> BeautifulSoup:
 
 def extract_restaurant_names(page) -> BeautifulSoup:
     print('extract_restaurant_names')
+    #print('page:',page)
     url = URL+page
 
     r = requests.get(url, headers=HEADERS)
@@ -48,7 +49,7 @@ def extract_restaurant_info(page) -> BeautifulSoup:
 
     html = driver.page_source
 
-    soup = BeautifulSoup(html , 'html5lib')
+    soup = BeautifulSoup(html , 'html.parser')
 
     return soup
 

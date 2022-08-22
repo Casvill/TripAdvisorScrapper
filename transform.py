@@ -7,7 +7,7 @@ __restaurant_info_list = []
 #-----------------------------------------------------------------------------------------------------------------------
 
 def __transform_cities_firts_page(soup):
-    print('transform_cities_firts_page')
+    #print('transform_cities_firts_page')
     divs = soup.find_all('div', class_='geo_wrap')
 
     for item in divs:
@@ -20,7 +20,7 @@ def __transform_cities_firts_page(soup):
 
 
 def __transform_cities_2(soup):
-    print('transform_cities_2')
+    #print('transform_cities_2')
     for ultag in soup.find_all('ul', {'class': 'geoList'}):
         for litag in ultag.find_all('li'):
             city= litag.text
@@ -31,7 +31,7 @@ def __transform_cities_2(soup):
 
 
 def transform_cities(soup,page) -> list:
-    print('transform_cities')
+    #print('transform_cities')
     if page == 1:
         __transform_cities_firts_page(soup)
     else:
@@ -54,7 +54,8 @@ def transform_cities(soup,page) -> list:
 
 
 def transform_restaurant_names(soup,page,df_cities):
-    print('transform_restaurant_names')
+    #print('transform_restaurant_names')
+    #print('page:',page)
     divs = soup.find_all('div', class_='zdCeB Vt o')
 
     for item in divs:
@@ -70,7 +71,7 @@ def transform_restaurant_names(soup,page,df_cities):
                         
             __restaurant_list.append(restaurants)
 
-    df_restaurant = pd.DataFrame(__restaurant_list )
+    df_restaurant = pd.DataFrame(__restaurant_list)
     df_restaurant = df_restaurant.merge(df_cities, left_on='id', right_on='href')
     df_restaurant.drop(columns=['id','href_y'], inplace=True)
     df_restaurant.rename(columns={'href_x':'href'}, inplace=True)
@@ -81,8 +82,16 @@ def transform_restaurant_names(soup,page,df_cities):
 
 
 def transform_restaurants_info(soup,restaurant,city,state):
-    print('transform_restaurants_info')
-    #web_site = ''
+    print('\nrestaurante:', restaurant, '\nciudad:', city)
+
+    calification = ''
+    number_of_reviwes = ''
+    ranking = ''
+    address = ''
+    web_site = ''
+    latitude = ''
+    longitude = ''
+
     div = soup.find('div', class_='YDAvY R2 F1 e k')
     for item in div:
         try:
