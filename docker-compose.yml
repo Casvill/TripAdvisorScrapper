@@ -1,0 +1,49 @@
+version: "3"
+
+services:
+  selenium:
+    image: selenium/standalone-chrome
+    ports:
+    - 4444:4444
+    restart: always
+
+  app:
+    build:
+      context: .
+    volumes:
+    - ./app:/app
+    command: sh -c "python3 __main__.py"
+    depends_on:
+    - selenium
+
+# services: 
+#   TripAdvisorScraper: 
+#     container_name: scraper_container
+#     build: TripAdvisorScraper
+#     image: tripadvisorscraper:python
+#     volumes:
+#       - trip_advisor_scraper:/Data 
+#     ports:
+#       - "80:80"
+#     networks:
+#       - scraper
+#     restart: unless-stopped
+
+#   selenium:
+#     container_name: selenium_container
+#     image: selenium/standalone-chrome
+#     ports:
+#       - "4444:4444"
+
+
+#  networks: 
+#    scraper: bridge
+  
+#  volumes:
+#    trip_advisor_scraper: 
+#      driver: local
+#      driver_opts: 
+#        type: none
+#        device: "./Data"
+#        o: bind
+
